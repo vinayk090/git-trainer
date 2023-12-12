@@ -2,7 +2,8 @@
 // using recursion
 import java.util.*;
  
-public class GeeksForGeeks {
+public class GeeksForGeeks 
+{
  
     // function to print spaces
     static void printSpace(int space)
